@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Epf</string>
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_search_item">Recherche</string>
+    <string name="homePageSearchMovieSection"> Rechercher un film</string>
+    <string name="homePageMovieName">Nom film</string>
+    <string name="homePageMovieDescription">Description du film</string>
+</resources>
